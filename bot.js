@@ -6,10 +6,10 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ping') {
-    	message.reply('pong');
+    if (message.content === 'Serve') {
+    	message.reply('Work in Progress');
   	}
 });
 
 // THIS  MUST  BE  THIS  WAY
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.Njk0MDI5NTIzNTkwNTc4MjE3.XoG0dw.VYUAq7BCEQkK0V4TVfLxmAHy81U);
